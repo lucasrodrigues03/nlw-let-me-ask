@@ -22,13 +22,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React.JS
 - TypeScript
-- JavaScript
+- Sass
+- Firebase
 
 
 ## 💻 Projeto
 
-Projeto verificador de idade utilizando HTML, CSS e JavaScript.
-
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
 
 
 Feito com ♥ by LucasRodrigues
